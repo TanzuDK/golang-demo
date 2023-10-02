@@ -24,7 +24,7 @@ spec:
   dependsOn:
     - component:default/fastapi-test
   consumesApis:
-    - component:default/fastapi-test
+    - "component:default/fastapi-test/api1"
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
