@@ -5,4 +5,4 @@ This is the ddocumentation, for the Golang Demo App. A simple one page, webapp, 
 
 The webserver, is build using GoLang, the website just a bit of HTML and CSS.
 
-bla bla bla bla
+Updated for webinar nr 6
